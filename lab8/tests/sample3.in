@@ -1,0 +1,15 @@
+#dxa
+# This line is a comment
+# This file has a scalar (123), and a 2 x 3 matrix (elements 1 ... 6)
+
+2
+
+3 3
+2,4,6,
+8,10,12,
+14,16,18;
+
+2 2
+1,2,
+6,9,
+

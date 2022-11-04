@@ -1,0 +1,21 @@
+# cmd options :tmmx
+# After transpose.
+3 2
+1,4,
+2,5,
+3,6,
+
+# After multiplication.
+3 2
+5,20,
+10,25,
+15,30,
+
+# After multiplication.
+3 3
+85,110,135,
+110,145,180,
+135,180,225,
+
+# After determinant.
+0

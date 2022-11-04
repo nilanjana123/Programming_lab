@@ -1,0 +1,20 @@
+# cmd options :sdmt
+# After subtraction.
+2 3
+90,190,290,
+390,490,590,
+
+# After division.
+2 3
+18,38,58,
+78,98,118,
+
+# After multiplication.
+2 2
+422,536,
+962,1256,
+
+# After transpose.
+2 2
+422,962,
+536,1256,

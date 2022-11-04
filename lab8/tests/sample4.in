@@ -1,0 +1,14 @@
+#tmmx
+# This line is a comment
+# This file has a scalar (123), and a 2 x 3 matrix (elements 1 ... 6)
+
+2 3
+1,2,3,
+4,5,6,
+
+5
+
+2 3
+1,2,3,
+4,5,6,
+
